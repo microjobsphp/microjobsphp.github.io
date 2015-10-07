@@ -57,7 +57,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #549CCA;
-  background-image: url("bokeh.png");
+  background-image: url("../bokeh.png");
  }
 
 @media screen and (min-width: 64em) {
